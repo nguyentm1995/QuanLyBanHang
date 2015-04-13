@@ -29,9 +29,9 @@ Partial Class ThongTin
         'PictureBox1
         '
         Me.PictureBox1.BackgroundImage = Global.QuanLyBanHang.My.Resources.Resources.HeaderIcon
-        Me.PictureBox1.Location = New System.Drawing.Point(12, 12)
+        Me.PictureBox1.Location = New System.Drawing.Point(69, 30)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(258, 302)
+        Me.PictureBox1.Size = New System.Drawing.Size(259, 78)
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
@@ -39,7 +39,7 @@ Partial Class ThongTin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(280, 319)
+        Me.ClientSize = New System.Drawing.Size(406, 137)
         Me.Controls.Add(Me.PictureBox1)
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
         Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
