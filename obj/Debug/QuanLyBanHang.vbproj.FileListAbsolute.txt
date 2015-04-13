@@ -1,0 +1,14 @@
+F:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Login.resources
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Main.resources
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Resources.resources
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.GenerateResource.Cache
+F:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+F:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+F:\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.xml
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.xml
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.KhachHang.resources
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.NhanVien.resources
+F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.SanPham.resources
