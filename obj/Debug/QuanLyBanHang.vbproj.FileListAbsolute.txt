@@ -12,3 +12,7 @@ F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
 F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.KhachHang.resources
 F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.NhanVien.resources
 F:\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.SanPham.resources
+C:\Users\Tong\Downloads\Compressed\PS02140\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Tong\Downloads\Compressed\PS02140\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Tong\Downloads\Compressed\PS02140\QuanLyBanHang\obj\Debug\QuanLyBanHang.xml
+C:\Users\Tong\Downloads\Compressed\PS02140\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
